@@ -1,4 +1,4 @@
-# Olá, Eu sou o Murilo!
+# Olá, Eu sou o Murilo! :*1
 
 ### Sobre mim
 Eu sou desenvolvedor Java, com conhecimento básico em React Native e Node.js.

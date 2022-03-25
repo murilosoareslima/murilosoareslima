@@ -1,6 +1,6 @@
 # Olá, Eu sou o Murilo! :+1:
-<a href="https://www.linkedin.com/in/murilo-soares-lima-790ba926/" target="_blank">
-    <img align="left" alt="Abhishek's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+<a href="https://www.linkedin.com/in/murilo-soares-lima-790ba926/">
+    <img align="left" alt="Abhishek's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" target="_blank" />
 </a>
 <br />
 

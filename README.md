@@ -1,21 +1,5 @@
 # Olá, Eu sou o Murilo! :+1:
-<a href="https://www.linkedin.com/in/murilo-soares-lima-790ba926/">
-    <i class="fab fa-linkedin fa-2x"></i>    
-</a>
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>LinkedIn Icon</title>
-    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/css/all.min.css">
-</head>
-<body>
-    <a href="https://www.linkedin.com/in/murilo-soares-lima-790ba926/" target="_blank">
-        <i class="fab fa-linkedin fa-2x"></i>
-    </a>
-</body>
-</html>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin&logoColor=white&style=flat-square)](https://www.linkedin.com/in/murilo-soares-lima-790ba926/)
 <br />
 
 ### Sobre mim

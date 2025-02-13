@@ -2,10 +2,24 @@
 <a href="https://www.linkedin.com/in/murilo-soares-lima-790ba926/">
     <i class="fab fa-linkedin fa-2x"></i>    
 </a>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>LinkedIn Icon</title>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/css/all.min.css">
+</head>
+<body>
+    <a href="https://www.linkedin.com/in/murilo-soares-lima-790ba926/" target="_blank">
+        <i class="fab fa-linkedin fa-2x"></i>
+    </a>
+</body>
+</html>
 <br />
 
 ### Sobre mim
-* :man_technologist: Atuo como supervisor e dev, no desenvolvimento de sistemas que dão suporte aos processos, atividades do seguimento de venda de auto peças, na empresa Auto Geral.
+* :man_technologist: Atuo na área de Desenvolvimento de Software, com experiência na plataforma Java, utilizando tecnologias como Spring Boot (Cloud, Mvc, Data, Security), MySQL, Git, GitHub, Google Cloud Plataform (SQL, Storage, Firestore, Compute Engine, App Engine, Cloud Run, Dataflow, Cloud Function, Pub/Sub), MongoDB, RabbitMQ, Redis, Jenkins, GitLab, Dynatrace, Grafana e para aplicação de testes automatizados, JUnit, Mockito e Rest Assured..
 
 * :classical_building: Formado em Gestão da Tecnologia da Informação pela Faculdade de Tecnologia Fatec Itu.
 
